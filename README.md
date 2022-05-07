@@ -7,8 +7,11 @@ There is a general consensus that much work needs to be done to learn more about
 
 ## File Descriptions
 Final_Project_Report.pdf: this PDF document contains the full report of the project. 
+
 analysis_main.R: this contains the R code used to link, clean, explore, analyze, and visualize the datasets. 
+
 step1_data_extraction.R: this contains the R code used to extract data from SQL databases and save them as .csv formats for downstream analysis.
+
 phe_str.Rdata: this contains the mapping file used to add names and body system groups to diagnosis codes used in the project. 
 
 ## Data Availability Statement
